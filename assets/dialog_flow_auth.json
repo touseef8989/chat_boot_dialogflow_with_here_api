@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covid-chat-boot-kbnv",
+  "private_key_id": "49e94cb74f164424b1f32ff7b609404ccf371dc5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8W5kRq3+8ceer\nxIs5eUJdHuz0dEj637vai2SOYpm64pHMwSAMVV1V8m91ocaH3PtRPfLujyVuw2hE\nVfvNV9I1dHN/1w3dKCAHaIBB1KJ/Lhne6wgTUtp++UlMxRclF0/JJ+Zb5C+rjIwu\nJp6c1C7xpRz07tGcG+nRmX/yXWIkc2KCNmBI1zGzMDgNVoNa7BbP2KdWL1PQhGyF\nwnUb7VEw3Pl6spu+hwXc/7DcPUrTKhdL7rP1Z94QTUmxQ7L10PZFsJZ5lzJS7PWA\nLrhChH9fyPGMotDR1vYHRwRO1tsy51YVMbIhp4hNz+QUvP1+LMNit79sw07wqBzQ\nNhst7f3lAgMBAAECggEADt+Qw7NuH7xC1e5sK/qmQeIqRddU1/KIy+YL565jgz1W\n0/tAA5lOCHZfVMOUgK/zbGPe5fWJuChX+GVtv7Y6lBwA7sxVfOwpM0yOLCSVPEOw\nqUiX16bIOBSJNDWv8S7ZDwJGj2UCWqJ7gz1rcujSWCR4l+KvzIrruLBNSR8Um9oZ\n8R2Nm2ibtO3+rtdOXN7xLrSoyVxQwltRRIZZfVn+2vc70dQDL+NqvPzOfcgsw3ks\nUSXF8Re5YgTu//OZadixILN3xFlpOhHsUQTGGE/AjjTVRNuiQfy7XmlpUoB3g7O0\nXrsO9XZpjYsgcCgy06guuDple6Mrs4oC9qGJxrjFdQKBgQDhi/kWnMNcR2yF8Gj4\nLwj9kgEokFcoV9lu2A2LCZJbLqTLDqmIxRx1W37CahuGvPD60G7wmMNFMFW+ZW2V\nf1HaJ+kZVX43+G31fXo7qyjMbquQ2A+W51Co2UraJ8jvWbX50BjfrrHxvjG8Qvhm\nvwHutbeXLwXEpfZ4p841EPYmMwKBgQDVyjAX6J3Lv3rlqtqWSwmIduML59+u4E0E\n6KSKHg4s67TzpndWwEy0M8LyxRt02wMmwYrKS0vHCrEy5sq4IQ8dPBL0azl/8cN+\ns9j9J+m629+eD8zNTUOy+pkXmyrouTmq50iGcIRajsrs8A+I2myOT6XK18DWfN6I\nq8UHMd3DhwKBgQDLOL2E/FaiTNChlk5eYLLvFqDolbWSaiVF1HHPdx5h/hMJyvpC\ne6f6rif2sHiA3LkcpLVxH5PCQZzgYq9sZj2wHQnQg9GoSLV63kZGgR/Po1/+sE7L\nnzx0BuWEzxgjYWev4SqoUNWQhdh2UrlSioQJO75iAEJoP0lmyXvpIJFJNQKBgB08\nMutyEfIE00eI369hv4H7z/yWzs3ZOm8LaUTB62pVKT+Qag1g6pxR37zXG3QVZw7r\ntJEJTul/GtA9I0eerbRvvJ/T8d7/Lp6q9WdZB+tXmfLBcl44zKMzBbBmta1xduNa\nEV7hEBhaIoHYKieqxuGHHsLoUiSCmuPRqXXcadkNAoGAfq/N7mMNR6p60UrcvKHH\n3d9IR3k0tERtnqLZb+RhUhzlVcFHxKkFG4ZH9r01OoDAkGMv8uqkkVMp7cjp7bmC\nV6OZa/yRkOM4ypxiIpDdOmC0LLO1pmrt+qv5lIv7ZqMGWt33zuzy9Mk7ehaxLSKR\n6Uf5j5ZXSGiI44tpFx7y2qw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ambot-340@covid-chat-boot-kbnv.iam.gserviceaccount.com",
+  "client_id": "106403933432338964442",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ambot-340%40covid-chat-boot-kbnv.iam.gserviceaccount.com"
+}

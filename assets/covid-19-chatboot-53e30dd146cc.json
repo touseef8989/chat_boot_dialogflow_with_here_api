@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covid-19-chatboot",
+  "private_key_id": "53e30dd146ccb8f7d3e00bf788fc6a347a931b22",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDo9xxep+Ip3gL\nE/2UNa3wP8RBx6MIPH3b2QyHNhyouIEyrFqoNwahPdYFkz6nkDI9BR6EMiSdz9kA\nN//YAN9jgaU6gROR+gHfbi4UBfXQbHJN7sU2jCu0FMIv973CWFWYASmQdo9IJIsV\noP/sJzuigTjRQjC8BXPzZ6F63dbnEuOemkNdg8BtxFJX1aQ7KqM7VZpUE3MSBg7O\nPhecrAVIvIUbRQkibMmyuk8yYnoOelCuGFsdP3Y0VdzjscuYKd+6Dczl8wzDE7TP\nCbc+8tZ2gD870noBgnlirrPjv3BhBwQTkcwJpp9jaXW82cimZOUbRlT8K/ugYV7H\np3UvJeqxAgMBAAECggEADqA79UHhFmLKvy1F6mQe9lSWFALcRdvb3uk5ngwmFVkB\n06t99ZBzju9kBjOtXfKSRuyQjPqAsUmeI/2Lw3bBPJuvIhIPR/0EUdNXX4jYiTXq\nT7g3hy3wgHyCzfo79gELmRsRI+sxKAgPW9UW/O0r8Kivejl0EkJoGjzXnitiixDF\nStO/dLNqCajfdLrdLOSirh8wqQcJ5qvlwfxdV0+H05qqro29BEP5/vLJW0wQQNai\nvfPGgisdGAEDUYmrQQh6w/7ZAv/8vDcqZrSPxgXEMEA2u/HipsfK654WdREUUiTC\ntL6YV3FJ8nIluWkyPI35uN+v3huW/BOUdXUcRCET1wKBgQD5LYT6i2L9L7BsAzBe\nrO08eZdXUd2zB8+9r31ETcKDutE9HHblE6q9xk4jAU667PKO3olzuQrBPHGVSNiN\nzjwu6U4mlxFe2m7MfQbVNrZjfULiBkHfeMMBBWf1KgXwevDUUAu8mN+rUP1s8HhL\nAx1KEVZNH8nCx//35tkGQuFgMwKBgQDI/xjf+8CICgPaVXcCUoBoknaqCOM5grzk\nGyrttipQuDCaMxX0gn4bjN5FbJglY8oVpESbKUmRMmgJtjp2uyEkPMvS1VJK25zo\nOPw/jkGBoP6CAuA6W+Te765acwCDd106hux+DWPx6t0YUEpqIqeZ2E39eUsYs+Fc\nX7f0OhOViwKBgDw7lqOBwiH1vy2875pTLt2pfr3q2i6Gut7dZuh164kwRZgCI3No\nd6N8JjMsA74HvPJwNMW2ezUOyV4Ox9ovejjUyMFnTxmgr5vatSYhHaGbC+nbHV1J\nscmzZtfKmrjw3vpThyLFyXt+DmShFFL9o7zdyADIqFrfQa7JLLjovdYlAoGAKjEK\nSrIxBx17E5DPK4if9dOQ3z6AXCkqd4OQblfH6CvR3/yLRklCKYxXeCFEisy4tfRG\nhn+TNsxq9GbxPM0pNs8gRgCLhrU06bZUlQ7Kh2iBJE9wPC/gCkArzEbJu88JneiG\nqisraLPRd3IbPM5LekrijCuy7NuNmfNpzPWH+OMCgYEAhetivva3X+Le5fza8h9o\n/Tgdqqx3JGzqFdgmkcRsetYbdz8qeLnm2wOd6YYyMMgGPy+2Rs6pX3ExT8i1qnZ7\nGgntV4MWeSiTcZoY2gwjAGFAK0urIXc6f4Iga7s1nQgWHP8DW8T7t+e9RC5GSywe\ndk/WyKdqoM989+QGV4NsgsY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter-covid-dialogflow@covid-19-chatboot.iam.gserviceaccount.com",
+  "client_id": "102953283644055059169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter-covid-dialogflow%40covid-19-chatboot.iam.gserviceaccount.com"
+}
